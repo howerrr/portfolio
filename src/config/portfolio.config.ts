@@ -1,6 +1,6 @@
 export const portfolioConfig = {
   // Basic Information
-  name: "Md Taqui Imam",
+  name: "Hower Lin",
   title: "Software Engineer",
   description: "I am a Passionate Software Developer",
   location: "Ramgarh cantt, Jharkhand, India",
@@ -14,7 +14,7 @@ export const portfolioConfig = {
     twitter: "https://twitter.com/Taquiimam14",
     linkedin: "https://www.linkedin.com/in/taqui-imam",
     external: "https://tinyurl.com/MdTaquiImam",
-    github: "https://github.com/taqui-786", // Assuming this is the GitHub link
+    github: "https://github.com/howerrr", // Assuming this is the GitHub link
   },
 
   // SEO Information
